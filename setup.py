@@ -14,7 +14,7 @@ setup(
 	name = 'tidyspotify',
 	version = version,
 	py_modules= ['tidyspotify'],
-	install_requires = ['spotipy'],
+	install_requires = ['spotipy', 'pandas', 'PyYAML', 'argh'],
         description = 'tidy wrapper around spotipy library',
         author = 'Michael Chow',
         author_email = 'michael@datacamp.com',
