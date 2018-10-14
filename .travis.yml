@@ -10,6 +10,7 @@ deploy:
   password:
     secure: RNLREhQvSrQ1ADVxtmGlHbTNsObnnGS/z8ccKyZBWlzE90r1bxQKZyYN73C/hJq+bsvXdonZg9BRFpWjWF9+wmemJToyp0vxXCgmD7JNPL+Dl6Pj/bcLtgubtn+0uBbrXccC/KNeEl1VWuosruJXZxHM/KnAViXS8RJAFAl2L/VRnTWXAgVakyUMDNPY3wVCNtqZdDGT9OYVcQJrluj1Qs9HNdgPggZmUCLHPU1yfq88zWXKD8w9cXUEem6XWHJuY2jYox+fE4TkifEjMikxu9zT5ozTdQWkpv1W6AmRVwEvUS4sONZbQxWzgDyMHXGRj3UTSBL5lCwg/QRxUGF+ZIQde0eZy94An3sDRo1cyvAjmxbpl6G7OvXN5gjL4qEN7tbTWqw+Ma3/6Chv/9/+5uEJW0HeB5h7A1EEyJXRzgSd0h1fWy8FuGpuS6Lbirx1/dSGPt6X+lbCGqmbb8pR9El+G7p/I8Iy5GaCfXyJjQ6OqymNwVH8MMkdN4fpXWXb4VGEZ4KK3rQc4P4o8EoL1zLpF+snPwuDBppUPZeyMCuxXxGGU5zRg7kn85GtVHRBVWDxtElNeB3uPwfk5JAWZpKLYXJHROd4oL/Pz/wO9SULHaEJ1mwRj6Oz6nyvETeeY9tGfpSRA7QVZuvx/XHkyYioYH4fzwpDyDsbxgFNhp4=
   on:
+    python: "3.6"
     tags: true
     distributions: sdist bdist_wheel
     repo: machow/tidyspotify
