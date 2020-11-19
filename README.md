@@ -1,4 +1,4 @@
-tidyspotipy
+tidyspotify
 ===========
 
 [![Build Status](https://travis-ci.org/machow/tidyspotify.svg?branch=master)](https://travis-ci.org/machow/tidyspotify)
