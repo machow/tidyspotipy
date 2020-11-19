@@ -3,6 +3,9 @@ tidyspotify
 
 [![Build Status](https://travis-ci.org/machow/tidyspotify.svg?branch=master)](https://travis-ci.org/machow/tidyspotify)
 
+This library is a port of https://github.com/charlie86/spotifyr to python.
+It implements the spotify API as a tidy interface, that returns pandas DataFrames.
+
 Installing
 ----------
 
